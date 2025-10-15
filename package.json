@@ -1,6 +1,6 @@
 {
   "name": "quick-api-tester-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "An interactive CLI tool to test REST API endpoints easily from the terminal.",
   "author": "Anurag Choudhari",
   "license": "ISC",
